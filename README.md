@@ -1,4 +1,5 @@
-# Python[Practica1.py](https://github.com/user-attachments/files/27100179/Practica1.py)
+# Python
+[Practica1.py](https://github.com/user-attachments/files/27100312/Practica1.py)
 dni = input("Posa el DN: ") # Pregunta el DNI
 preu = input("Posa el preu de l'article: ") # Pregunta els preus
 descompte = input("Posa el percentatge de descompte: ") # Pregunta el % de descompte
