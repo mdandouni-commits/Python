@@ -30,3 +30,4 @@ while user != maquina:   # Se repite infinitamente mientras que el numero no sea
     else:  
         print("Ganador")  # Te dice que as ganado 
         print("Has ganado pero nos volveremos a ver") # Mensaje final
+[Uploading Endevina.py…]()
